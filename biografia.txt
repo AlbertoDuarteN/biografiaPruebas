@@ -11,3 +11,14 @@ tengo dos hijas y una gran esposa, me siento orgulloso de nuestra familia
  12/02/2023
  En esta ocasión voy a escribir los pasos necesarios para hacer la creación y vinculación de Git y GitHub
  Iré intercalando entre VSCode y GitHub haciendo las modificaciones para entrenar la secuencia
+
+1) Lo primero que hay que hacer es verificar que la terminal de Git se encuentre registrada con el nombre de usuario y el correo electrónico de gitHub
+Para realizar esta verificación hay que ingresar a la terminal de git y escribir el siguiente comando
+
+- git config -l
+
+Y verificar en la lista si se encuentra correctamente escrito el user.name y el user.email
+Si no, entonces configurar con el comando
+
+- git config --global user.name "aqui el nombre de usuario" ----> Presionar enter
+- git config --global user.email "aqui el correo electrónico" ----> Presionar enter
