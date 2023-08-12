@@ -22,3 +22,15 @@ Si no, entonces configurar con el comando
 
 - git config --global user.name "aqui el nombre de usuario" ----> Presionar enter
 - git config --global user.email "aqui el correo electrónico" ----> Presionar enter
+
+2) El segundo paso es recordar que tanto Git como Github son capaces de generar llaves públicas y privadas que es lo que permite realizar la conexión entre ambas plataformas.
+
+Hay una serie de comandos que se deben ejecutar para la generación de estas llaves SSH
+
+ - Primero hay que estar en la carpeta principal escribiendo $ cd
+ - Cersiorarse que aparece el signo del sombrero de la ñ
+ - Escribir el siguiente comando
+
+                ss-keygen -t rsa -b 4096 -C "Aquí el correo electronico para conectar con gitHub"
+
+    Presionar enter hasta que se haya generado.
