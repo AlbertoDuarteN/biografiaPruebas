@@ -6,3 +6,8 @@ Estoy buscando trabajo y estoy estudiando Análisis y desarrollo de software
 Mi meta es tenerlo todo en este mundo y viajar para conocer todo lo que Dios creó.
 tengo dos hijas y una gran esposa, me siento orgulloso de nuestra familia
  Estoy prácticando el uso de pull y push en Git y GitHub para entender el flujo de control de versiones
+ 
+
+ 12/02/2023
+ En esta ocasión voy a escribir los pasos necesarios para hacer la creación y vinculación de Git y GitHub
+ Iré intercalando entre VSCode y GitHub haciendo las modificaciones para entrenar la secuencia
