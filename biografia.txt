@@ -34,3 +34,12 @@ Hay una serie de comandos que se deben ejecutar para la generación de estas lla
                 ss-keygen -t rsa -b 4096 -C "Aquí el correo electronico para conectar con gitHub"
 
     Presionar enter hasta que se haya generado.
+
+    Para hacer un alias y evitar escribir un código muy largo, lo ideal es utilizar la función de alias
+    Se hace de la siguiente manera.
+
+    El siguiente es para hacer el log de commits mucho más entendible y mejor presentado con el fin de identificar los cambios que se han hecho
+
+    alias intento1="git log --all --graph --decorate --oneline"
+
+    
