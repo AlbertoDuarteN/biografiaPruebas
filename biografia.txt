@@ -7,6 +7,10 @@ Mi meta es tenerlo todo en este mundo y viajar para conocer todo lo que Dios cre
 tengo dos hijas y una gran esposa, me siento orgulloso de nuestra familia
  Estoy prácticando el uso de pull y push en Git y GitHub para entender el flujo de control de versiones
  
+********************************************************************************************************
+GENERANDO LLAVES SSH EN GIT DESDE CERO
+********************************************************************************************************
+
 
  12/02/2023
  En esta ocasión voy a escribir los pasos necesarios para hacer la creación y vinculación de Git y GitHub
@@ -34,6 +38,11 @@ Hay una serie de comandos que se deben ejecutar para la generación de estas lla
                 ss-keygen -t rsa -b 4096 -C "Aquí el correo electronico para conectar con gitHub"
 
     Presionar enter hasta que se haya generado.
+
+
+********************************************************************************************************
+GENERANDO ALIAS EN GIT
+********************************************************************************************************
 
     Para hacer un alias y evitar escribir un código muy largo, lo ideal es utilizar la función de alias
     Se hace de la siguiente manera.
